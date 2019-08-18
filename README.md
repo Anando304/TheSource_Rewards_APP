@@ -2,7 +2,9 @@
 
 # TheSource_Rewards_APP
 
-> An App created during the 2019 Bell IT Business Case Challenge.
+> Winning project of the 2019 Bell IT Business Case Challenge
+
+> A modern rewards app for TheSource Loyalty Program.
 
 **Overview**
 
