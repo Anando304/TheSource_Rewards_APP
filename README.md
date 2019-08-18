@@ -27,6 +27,10 @@ using Firebase Authentication as well as Firebase database for real-time data st
 In addition, we integrated Google DialogFlow for the creation of a Support Chatbot in which customers can have answers to commonly
 asked questions easily using Googles natural language processing and machine learning capabalities.
 
+Check out 
+<a href="https://github.com/Anando304/TheSource_Rewards_APP">TheSourceRewards_POS_App repo </a> to get access to the POS terminal app!
+
+Download customer rewards app (APK) <a href ="https://drive.google.com/file/d/1isu4JOLrG-cHyhD97qp70wo3pXlEP4c-/view?usp=sharing">here</a>
 
 
 **TECHNICAL ASPECTS**
