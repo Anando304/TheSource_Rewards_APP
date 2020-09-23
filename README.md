@@ -52,9 +52,9 @@ Download customer rewards app (APK) <a href ="https://drive.google.com/file/d/1i
 **APP SCREENSHOTS BELOW**
 <div>
   <div style="float:left;"> <!-- Could also use a div class associated with a css with float to make the side by side image -->
-    <a href="https://www.kapwing.com/videos/5d3f37d6488f85001355972c"><img src="https://i.ibb.co/pLBDz54/Screenshot-20190730-203925-Source-Rewards.jpg" width="300" height="670">       <img src="https://i.ibb.co/ckT5m4r/Screenshot-20190730-203905-Source-Rewards.jpg" width="300" height="670"></a> 
+    <a href="https://youtu.be/INjTLB2Bu4M"><img src="https://i.ibb.co/pLBDz54/Screenshot-20190730-203925-Source-Rewards.jpg" width="300" height="670">       <img src="https://i.ibb.co/ckT5m4r/Screenshot-20190730-203905-Source-Rewards.jpg" width="300" height="670"></a> 
   </div>
 </div>
 
-<h1>View video demonstration below</h1><a href="https://www.kapwing.com/videos/5d3f37d6488f85001355972c">  click here</a>
+<h1>View video demonstration below</h1><a href="https://youtu.be/INjTLB2Bu4M">  click here</a>
 
